@@ -5,7 +5,7 @@
 This is a hospital website aimed at providing comprehensive information about the healthcare services available at Cahaya Medika Hospital. Cahaya Medika Hospital is a leading healthcare provider dedicated to delivering high-quality medical services to its patients. From routine check-ups to specialized treatments, Cahaya Medika Hospital offers a wide range of medical services to cater to the diverse needs of its patients.
 
 ### Live Demo
-[Hospital website](https://hulu-tv-clone-app.vercel.app/)
+[Hospital website](https://cahaya-medika.vercel.app/)
 
 ## Features
 - **Contact Doctors via Social Media**: Users can view information about available doctors at the hospital along with their social media accounts to contact them.
