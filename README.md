@@ -1,6 +1,6 @@
 # Hospital website
 
-<img src="images/Hospital Website.png" alt="cahaya medika" width="600" height="500" align="center" />
+<img src="image/Hospital Website.png" alt="cahaya medika" width="600" height="500" align="center" />
 
 This is a hospital website aimed at providing comprehensive information about the healthcare services available at Cahaya Medika Hospital. Cahaya Medika Hospital is a leading healthcare provider dedicated to delivering high-quality medical services to its patients. From routine check-ups to specialized treatments, Cahaya Medika Hospital offers a wide range of medical services to cater to the diverse needs of its patients.
 
@@ -13,7 +13,7 @@ This is a hospital website aimed at providing comprehensive information about th
 - **Medical Service Booking**: Users can book medical services online.
 
 ## Installation
-1. Clone this repo: `git clone https://github.com/Seann21/HuluTv-CloneApp.git`
+1. Clone this repo: `git clone https://github.com/Seann21/Hospital-website.git`
 2. Navigate to the project directory: `cd Hospital-website`
 3. Open your Code Editor and Install the live preview Extension to go straight to your favorite browser
 
