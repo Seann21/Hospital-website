@@ -1,6 +1,10 @@
-# Hospital website
+<h1 align="center"> Hospital website </h1>
 
-<img src="image/Hospital Website.png" alt="cahaya medika" width="600" height="500" align="center" />
+<div align="center">
+  <img src="image/Hospital Website.png" alt="Chatyol ai" width="600" height="500" />
+</div>
+
+<br>
 
 This is a hospital website aimed at providing comprehensive information about the healthcare services available at Cahaya Medika Hospital. Cahaya Medika Hospital is a leading healthcare provider dedicated to delivering high-quality medical services to its patients. From routine check-ups to specialized treatments, Cahaya Medika Hospital offers a wide range of medical services to cater to the diverse needs of its patients.
 
